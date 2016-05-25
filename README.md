@@ -53,7 +53,7 @@ To troubleshoot your Bluemix app the main useful source of information are the l
 ---
   Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
 
-[deploy2bluemix]:https://bluemix.net/deploy?repository=https://github.com/agustincasamayor/watson-pi-lab-interconnect
+[deploy2bluemix]:https://bluemix.net/deploy?repository=https://github.com/DeveloperConnect/WatsonPiLab
 [npm]:https://www.npmjs.com/
 [nodejs]:http://nodejs.org/
 [cloud_foundry]: https://github.com/cloudfoundry/cli
