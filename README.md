@@ -1,7 +1,7 @@
 # Watson Personality Insights
-## dev@ InterConnect session 6948 - 15 minute Hello World lab
+## DeveloperConnect workshop - 15 minute Hello World lab
 
-  Welcome to the dev@ Interconnect 2016 Hello World lab session for Watson Personality Insights. 
+  Welcome to the DeveloperConnect 2016 Hello World lab session for Watson Personality Insights. 
   Let's build a cool web application powered by Watson Personality Insights.
 
 
