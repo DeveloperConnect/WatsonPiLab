@@ -26,7 +26,7 @@
 
 5. Test the recently deployed template app with the link provided.
 
-6. Continue with the instrucions provided for the lab in the iPad standing next to your computer.
+6. Continue with the instrucions provided for the lab.
 
 
 ## License
